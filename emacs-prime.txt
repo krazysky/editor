@@ -41,6 +41,9 @@ M+x 开始执行命令, 可以按下tab补全
 viper-mode
 clipboard-yank
 shell
+desktop-change-dir 切换session目录
+
 
 C+x o 切换窗口
 C+x 1 关闭其他窗口
+
